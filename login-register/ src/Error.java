@@ -1,5 +1,6 @@
 package MyTest1;
 
+//此类用于存储错误的集合，以数字编码对应错误，然后进行调用
 
 import java.util.HashMap;
 
